@@ -1,5 +1,4 @@
 # syntax=docker/dockerfile:1.4
-
 # STEP 1: Build the frontend
 FROM node:23-slim as fe-build
 
